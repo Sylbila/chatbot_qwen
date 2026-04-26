@@ -12,7 +12,7 @@ export default function ChatUI() {
   // function kirim ke n8n
   async function sendToN8N(message) {
     const res = await fetch(
-      "https://hunchback-turbofan-happier.ngrok-free.dev/webhook/f742d119-750a-4597-81c6-052a9cf397ec",
+      "https://hunchback-turbofan-happier.ngrok-free.dev/webhook/modelQWEN",
       {
         method: "POST",
         headers: {
