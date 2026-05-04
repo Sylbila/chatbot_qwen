@@ -44,6 +44,8 @@
   padding: 8px 12px;
   border-radius: 10px;
   max-width: 70%;
+  white-space: pre-line; 
+  line-height: 1.5;
 }
 
 .user {
